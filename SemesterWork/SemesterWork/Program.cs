@@ -10,8 +10,8 @@ namespace SemesterWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("abc");
-            var a = 4;
+            Console.WriteLine("Hello, World!");
+            int a = 4;
         }
     }
 }
